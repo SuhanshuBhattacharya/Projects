@@ -1,2 +1,2 @@
 # Projects
-This Repository contains Data Science Projects done.
+Data Science Projects notebooks
